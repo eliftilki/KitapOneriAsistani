@@ -3,7 +3,7 @@ BERT ve T5 tabanlı intent sınıflandırması kullanan Transformer tabanlı ak�
 
 # 🧠 Chatbot Akışı Tasarımı
 
-![Chatbot Akış Diyagramı](images\diagram.png)  
+![Chatbot Akış Diyagramı](images/diagram.png)  
 *Yukarıdaki diyagram, chatbotun temel çalışma prensibini ve kullanıcı ile etkileşim sürecini görsel olarak özetlemektedir.*
 
 Chatbot, kullanıcıdan aldığı girdiyi işleyerek anlamlandırmakta ve buna uygun yanıtları üretmektedir.
